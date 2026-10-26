@@ -17,6 +17,22 @@
   <nav style="position: absolute; top: 0; background: white; padding: 10px; border-bottom: 1px solid #ccc; z-index: 100;">
   <a href="./variables/python.py">Check out the Variable Code</a>
     <div><ul><li>you can assign the values in 3 ways: <a href="https://github.com/shivaprasadyadav/Python/blob/6101dc3f46749aa11526f58d0bd33638a69349b7/variables/example_code.py">Checkout the code</a></li></ul>
-     
+  <div align="center">
+      <h2>Data Types</h2>
+  </div>
+      <p>There are 11 commonly used built-in data types</p>
+      <ol>
+        <li>int- 10, 64</li>
+        <li>float- 10.5, 64.1</li>
+        <li>complex- 2+3j</li>
+        <li>str- "hello"</li>
+        <li>bool- True/False</li>
+        <ul><li>Collections - 6types</li></ul>
+        <li>list- </li>
+        <li>tuple- (1,2,2)</li>
+        <li>set-{1,2,3}</li>
+        <li>frozenset- immutable set</li>
+        <li>diet- {"a":1}</li>
+        <li>NoneType- None[1][2][3]</li>
 </nav>
 </div>

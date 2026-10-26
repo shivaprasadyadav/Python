@@ -1,7 +1,6 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Learing Python from scartch</title>
   </head>
   <body>
     <header>Python</header>

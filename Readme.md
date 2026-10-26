@@ -3,11 +3,12 @@
     <h2>Variables</h2>
   </div>
   <div id="variables">
-  <p>In python, you don't declare like int a, you just write a=10 and python understands the type automatically.</p>
+    <ul>
+ <li> <p>In python, you don't declare like int a, you just write a=10 and python understands the type automatically.</p></li>
 </div>
 
 <div id="rules">
-  <p>3 Rules for naming variables (Very important)</p>
+ <li> <p>3 Rules for naming variables (Very important)</p></li></ul>
   <ol>
     <li>Can't start with number: 1marks- Wrong, marks1-Correct</li>
     <li>No Space, No special symbol: my marks- wrong, my_marks-correct</li>

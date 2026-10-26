@@ -15,7 +15,7 @@
     <li>Case Sensitive: Marks and marks are different</li>
   </ol>
   <nav style="position: absolute; top: 0; background: white; padding: 10px; border-bottom: 1px solid #ccc; z-index: 100;">
-  <a href="./variables/python.py">Check out the Variable Code</a>
+   <p>Variable code<a href="./variables/python.py">Checkout</a></p> 
     <div><ul><li>you can assign the values in 3 ways: <a href="https://github.com/shivaprasadyadav/Python/blob/6101dc3f46749aa11526f58d0bd33638a69349b7/variables/example_code.py">Checkout the code</a></li></ul>
   <div align="center">
       <h2>Data Types</h2>
@@ -34,5 +34,6 @@
         <li>frozenset- immutable set</li>
         <li>diet- {"a":1}</li>
         <li>NoneType- None[1][2][3]</li>
+        <p>Data Types code<a href="https://github.com/shivaprasadyadav/Python/blob/4aeae960cb000f74f0b9f611263ddc8f2c549206/Data%20Types/datatypes.py">Checkout</a></p>
 </nav>
 </div>

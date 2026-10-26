@@ -12,7 +12,7 @@
         <li>No Space, No special symbol: my marks- wrong, my_marks-correct</li>
         <li>Case Sensitive: Marks and marks are different</li>
       </li></div>
-        
+        <a href="https://github.com/shivaprasadyadav/Python/tree/197197b49bc6f693521886d009ff78f161d5d583/variables">Check out the Variable Code</a>
     </text>
   </body>
 </html>

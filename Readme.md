@@ -1,6 +1,7 @@
-<div id="variables">
-  <center><h3>Python</h3>
-  <h1>Variables</h1></center>
+<div  style="text-align: center;">
+  <h1>Python</h1></div>
+  <div id="variables">
+  <h1>Variables</h1>
   <p>In python, you don't declare like int a, you just write a=10 and python understands the type automatically.</p>
 </div>
 

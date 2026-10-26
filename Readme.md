@@ -1,4 +1,4 @@
-<div  style="text-align: center;">
+<div  style="text-align: top;">
   <h1>Python</h1></div>
   <div id="variables">
   <h1>Variables</h1>

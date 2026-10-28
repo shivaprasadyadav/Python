@@ -35,7 +35,9 @@
         <li>diet- {"a":1}</li>
         <li>NoneType- None[1][2][3]</li>
         <p>Data Types code<a href="https://github.com/shivaprasadyadav/Python/blob/4aeae960cb000f74f0b9f611263ddc8f2c549206/Data%20Types/datatypes.py">Checkout</a></p>
+        <div align="center">
         <h2>Strings</h2>
+        </div>
         <p>A String is a sequence of characters enclosed in quotes</p>
         <code>
           name="Shiva"
@@ -49,5 +51,6 @@
         </code>
         <p>Even though "500" looks like a number, Python treats it as text because it is inside quotes</p>
         <p>Important string Operations <a href="https://github.com/shivaprasadyadav/Python/tree/e958e7a332ee193ee34e82d320d48e7a90eb8574/strings">Checkout</a></p>
+        <ul><li>String Slicing</li></ul>
 </nav>
 </div>

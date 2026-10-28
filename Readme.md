@@ -37,9 +37,17 @@
         <p>Data Types code<a href="https://github.com/shivaprasadyadav/Python/blob/4aeae960cb000f74f0b9f611263ddc8f2c549206/Data%20Types/datatypes.py">Checkout</a></p>
         <h2>Strings</h2>
         <p>A String is a sequence of characters enclosed in quotes</p>
-        <code>name="Shiva"
+        <code>
+          name="Shiva"
           city='warangal'
-          message="I am learning python"</code>
+          message="I am learning python"
+        </code>
         <p>Strings can contain letters, numbers, spaces and symbols</p>
+        <code>
+          a ="500" #string
+          b = 500 #integer
+        </code>
+        <p>Even though "500" looks like a number, Python treats it as text because it is inside quotes</p>
+        <p>Important string Operations</p>
 </nav>
 </div>

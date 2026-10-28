@@ -48,6 +48,6 @@
           b = 500 #integer
         </code>
         <p>Even though "500" looks like a number, Python treats it as text because it is inside quotes</p>
-        <p>Important string Operations</p>
+        <p>Important string Operations <a href="https://github.com/shivaprasadyadav/Python/tree/e958e7a332ee193ee34e82d320d48e7a90eb8574/strings">Checkout</a></p>
 </nav>
 </div>

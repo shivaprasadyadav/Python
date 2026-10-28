@@ -57,6 +57,8 @@
           word ="PYTHON"
           print(word[2:5])
         </code>
-          </p>
+        <ul><li>Output</li></ul>
+        <p>THO</p>
+        </p>
 </nav>
 </div>

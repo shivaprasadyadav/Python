@@ -35,5 +35,11 @@
         <li>diet- {"a":1}</li>
         <li>NoneType- None[1][2][3]</li>
         <p>Data Types code<a href="https://github.com/shivaprasadyadav/Python/blob/4aeae960cb000f74f0b9f611263ddc8f2c549206/Data%20Types/datatypes.py">Checkout</a></p>
+        <h2>Strings</h2>
+        <p>A String is a sequence of characters enclosed in quotes</p>
+        <code>name="Shiva"
+          city='warangal'
+          message="I am learning python"</code>
+        <p>Strings can contain letters, numbers, spaces and symbols</p>
 </nav>
 </div>
